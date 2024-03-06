@@ -36,6 +36,16 @@
 
 **ES** Utilice el comando `npx migrate dev` para crear la base de datos y las tablas. A continuación, ejecute el comando `npm run dev` para iniciar el servidor. La API estará disponible en `http://localhost:3000/api/books` y `http://localhost:3000/api/publishers`. Asegúrese de tener NodeJS instalado en su sistema y haber ejecutado `npm install` para instalar las dependencias.
 
+---
+
+## Screenshots/Capturas de Pantalla 📸
+
+- **GET /api/publishers (Publishers Table)**  
+  [![publishers](https://i.imgur.com/92M3hYe.png)](https://i.imgur.com/92M3hYe.png)
+
+- **GET /api/books (Books Table)**
+  [![books](https://i.imgur.com/deUMDQN.png)](https://i.imgur.com/deUMDQN.png)
+
 ## Docs 📚
 
 - [Prisma](https://www.prisma.io/docs)
